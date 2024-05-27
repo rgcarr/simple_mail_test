@@ -1,0 +1,4 @@
+# Schema for the configuration files of the Simple mail test module.
+recipient:
+  type: email
+  label: 'Email address'

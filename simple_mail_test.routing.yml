@@ -1,0 +1,7 @@
+simple_mail_test.settings:
+  path: '/admin/config/system/settings/simple-mail-test'
+  defaults:
+    _title: 'Simple Mail Test'
+    _form: 'Drupal\simple_mail_test\Form\SettingsForm'
+  requirements:
+    _permission: 'administer site configuration'

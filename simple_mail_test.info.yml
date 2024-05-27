@@ -1,0 +1,5 @@
+name: 'Simple mail test'
+type: module
+description: 'Send a single email to a designated email address using the dafult mail system'
+package: 'Custom'
+core_version_requirement: ^10 || ^11

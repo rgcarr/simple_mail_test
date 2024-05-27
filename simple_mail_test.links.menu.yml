@@ -1,0 +1,6 @@
+simple_mail_test.settings:
+  title: Simple Mail Test
+  description: Sends an email using default system settings to a custom email address
+  parent: system.admin_config_system
+  route_name: simple_mail_test.settings
+  weight: 10
