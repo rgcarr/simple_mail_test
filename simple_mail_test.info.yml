@@ -3,3 +3,4 @@ type: module
 description: 'Send a single email to a designated email address using the default mail system'
 package: 'Custom'
 core_version_requirement: ^10 || ^11
+configure: simple_mail_test.settings
