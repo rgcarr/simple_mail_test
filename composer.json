@@ -1,0 +1,14 @@
+{
+"name": "rgcarr/simple_mail_test",
+"type": "drupal-module-custom",
+"description": "Simple mail test using system defaults",
+"keywords": ["Drupal", "simple_mail_test"],
+"license": "GPL-2.0+",
+"authors": [
+{
+"name": "Rob Carr",
+"email": "rob@cognimatic.com"
+}
+],
+"require": {}
+}
