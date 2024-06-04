@@ -1,6 +1,6 @@
 {
 "name": "rgcarr/simple_mail_test",
-"type": "drupal-module-custom",
+"type": "drupal-custom-module",
 "description": "Simple mail test using system defaults",
 "keywords": ["Drupal", "simple_mail_test"],
 "license": "GPL-2.0+",
